@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "245203079891",
+    "project_id": "fiverclone-44523",
+    "storage_bucket": "fiverclone-44523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245203079891:android:c101dc266b5272d94afa26",
+        "android_client_info": {
+          "package_name": "com.example.freelancer_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245203079891-5qcvdnk19l4ahrjoh3esrucce646jg0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8WuNPLtBX0Y6JEdqnztorBMN6u6DUr1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245203079891-5qcvdnk19l4ahrjoh3esrucce646jg0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245203079891:android:9e5ba2f770fbb93b4afa26",
+        "android_client_info": {
+          "package_name": "com.example.live_earth_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245203079891-5qcvdnk19l4ahrjoh3esrucce646jg0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8WuNPLtBX0Y6JEdqnztorBMN6u6DUr1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245203079891-5qcvdnk19l4ahrjoh3esrucce646jg0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
